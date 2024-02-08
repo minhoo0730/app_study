@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084156912143",
+    "project_id": "appstudy-9a21d",
+    "storage_bucket": "appstudy-9a21d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084156912143:android:4b148459afd4ade783397a",
+        "android_client_info": {
+          "package_name": "com.example.appstudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OEtJxWoR9GHznMxk0EzcHyacGmcwHDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
